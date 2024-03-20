@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/hello-world", // path of the handler
+      "schedule": "* * * * *"  // configuration of the cron job
+    }
+  ]
+}
